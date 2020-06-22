@@ -1,0 +1,15 @@
+{
+    "name": "Test",
+    "version": "1.0.0",
+    "author": "cat_4",
+    "description": "Searching for the Piper",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/username/repository.git"
+    },
+    "contributors": [],
+    "dependencies": {
+        "ibm-watson": "^5.5.0"
+    }
+}
